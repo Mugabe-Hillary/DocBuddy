@@ -55,12 +55,6 @@ These instructions will get you a copy of the project up and running on your loc
 4.  **Access the application**
     Open your web browser and go to `http://localhost:8501`.
 
-## Deployed Application
-
-The application is deployed and can be accessed at the following URL:
-
-**URL:** [Your Deployed App URL Here]
-
 ## Features
 
 - 📤 **Upload Your Documents**: Build a knowledge base from your own text files.
