@@ -37,8 +37,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-name>
+    git clone git@github.com:Mugabe-Hillary/DocBuddy.git
+    cd DocBuddy
     ```
 
 2.  **Set up environment variables**
@@ -109,7 +109,7 @@ The application is deployed and can be accessed at the following URL:
 │   └── utils.py          # Helper functions for vector store and text processing
 ├── chroma_db/            # Directory for the persistent ChromaDB vector store
 ├── docker-compose.yml    # Defines the Docker services, networks, and volumes
-├── requirements.txt      # Python dependencies
+└── requirements.txt      # Python dependencies
 
 ## Technical Details
 
@@ -126,4 +126,4 @@ The application is deployed and can be accessed at the following URL:
 -   More advanced retrieval strategies.
 
 ---
-*Developed by AMH incorporated © 2025*
+*Developed by AMH© 2025*
